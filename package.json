@@ -1,0 +1,12 @@
+{
+  "id": "stackedit",
+  "name": "StackEdit",
+  "version": "1.0.0",
+  "description": "Full-featured, open-source Markdown editor based on PageDown, the Markdown library used by Stack Overflow and the other Stack Exchange sites.",
+  "main": "index.js",
+  "author": "hylkealons",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://stackedit.io/app"
+  }
+}
